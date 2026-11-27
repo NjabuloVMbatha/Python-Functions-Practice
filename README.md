@@ -1,2 +1,18 @@
-# Python-Functions-Practice
-Python programming exercises demonstrating functions, parameters, return values, loops, conditionals, mathematical calculations, and problem-solving techniques.
+Python Functions Practice
+A collection of Python exercises that demonstrate fundamental programming concepts.
+
+Topics Covered
+Functions
+Parameters
+Return values
+Loops
+Conditional statements
+Mathematical calculations
+String manipulation
+Skills Demonstrated
+Python programming
+Problem solving
+Writing reusable code
+Algorithm development
+Author
+Njabulo Mbatha
